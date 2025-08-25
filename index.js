@@ -169,9 +169,11 @@ const totalGamesCount = GAMES_JSON.length;
 const displayStr = `A total of $${totalRaised.toLocaleString('en-US')} has been raised for ${totalGamesCount} ganes. Currently, ${unfundedGamesCount} ${unfundedGamesCount === 1 ? "game remains" : "games remain"} unfunded. We need your help to fund these amazing games!`;
 
 // create a new DOM element containing the template string and append it to the description container
-const newElement = document.createComment("p");
+const newElement = document.createElement("p");
 newElement.innerHTML = displayStr;
 descriptionContainer.appendChild(newElement);
+
+
 /************************************************************************************
  * Challenge 7: Select & display the top 2 games
  * Skills used: spread operator, destructuring, template literals, sort 
