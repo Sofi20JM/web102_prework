@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='[https://imgur.com/gallery/henlo-v46qSsq#lb35KKN](https://github.com/Sofi20JM/web102_prework/blob/main/Henlo%20-%20Imgur.mp4)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/IutyAWy' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur  
