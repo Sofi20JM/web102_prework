@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/gallery/henlo-v46qSsq#lb35KKN' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with imgur  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I encountered some problems with part 6. I thought I had completed it correctly, but it wasn't working. I spent almost an hour searching through the entire document, and I couldn't find the issue until I was nearly finished with the prework. I realized that I had mistakenly used `.createComment()` instead of `.createElement()`. Additionally, I had trouble remembering how to save the changes back to GitHub, so I ended up watching a video on YouTube to do it correctly.
 
 ## License
 
